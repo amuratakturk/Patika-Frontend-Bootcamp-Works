@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Form Elemanları Kullanımı</h1>
+
+    <form action="/usage_of_form_elements.html" method="get">
+
+        <!--1. Kullanıcının adını ve soyadını girebileceği iki metin kutusu.-->
+        <!--Text Input-->
+        <label for="fname">Ad:</label><br>
+        <input type="text" id="fname" name="fname"
+        required><br>
+
+        <label for="lname">Soyad:</label><br>
+        <input type="text" id="lname" name="lname"
+        required><br>
+
+
+        <!--2. Kullanıcının e-posta adresini girebileceği bir e-posta giriş alanı.-->
+        <!--Email Input-->
+        <label for="email"></E-posta:></label><br>
+        <input type="email" id="email" name="email"
+        required><br>
+
+
+
+
+        <!--3. Kullanıcının parolasını girebileceği bir parola giriş alanı.-->
+        <!--Password Input-->
+        <label for="pwd">Şifre:</label><br>
+        <input type="password" id="pwd" name="pwd"
+        minlength="8" 
+        required><br>
+
+
+
+        <!--4. Kullanıcının cinsiyetini seçebileceği iki radyo düğmesi (Erkek ve Kadın).-->
+        <!--Radio Button Input-->
+        <p>Cinsiyet:</p>
+        <input type="radio" id="male" name="gender"
+        value="male" 
+        required>
+        <label for="male">Erkek</label><br>
+
+        <input type="radio" id="female" name="gender"
+        value="female"
+        required>
+        <label for="female">Kadın</label><br>
+
+
+
+        <!--5. Kullanıcının bir dizi seçenek arasından favori meyvesini seçebileceği bir açılır liste (örneğin, Elma, Muz, Çilek).-->
+        <!--Select Input-->
+        <label for="favorite">Favori:</label><br>
+
+        <select id="favorite" name="favorite">
+            <option value="Apple">Elma</option>
+            <option value="Banana">Muz</option>
+            <option value="Strawberry">Çilek</option>
+        </select><br>
+
+        <!--6. Kullanıcının bir mesaj yazabileceği bir metin alanı.-->
+        <!--Textarea Input-->
+        <label for="message">Mesaj:</label><br>
+        <textarea id="message" name="message" rows="4" cols="50"
+        ></textarea><br>
+
+        <!--7. Tüm bilgileri göndermek için bir "Gönder" düğmesi.-->
+        <!--Submit Button-->
+        <input type="submit" value="Gönder">
+
+
+
+
+
+
+        
+    </form>
+    
+</body>
+</html>
