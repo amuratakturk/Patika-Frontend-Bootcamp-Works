@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kayıt Formu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffd000e8;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        form {
+            background: darkblue;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #000877f3;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+
+        input, select, textarea, button {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            background-color: #333;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1 id="title">Kayıt Formu</h1>
+        <p id="description">Lütfen formu doldurun ve bilgilerinizi gönderin.</p>
+        <form id="survey-form">
+            <label id="name-label" for="name">İsim:</label>
+            <input id="name" type="text" placeholder="Adınızı girin" required>
+
+            <label id="email-label" for="email">E-posta:</label>
+            <input id="email" type="email" placeholder="E-posta adresinizi girin" required>
+
+            <label id="number-label" for="number">Yaş:</label>
+            <input id="number" type="number" placeholder="Yaşınızı girin" min="1" max="120" required>
+
+            <label for="dropdown">Cinsiyet:</label>
+            <select id="dropdown">
+                <option value="">Seçiniz</option>
+                <option value="male">Erkek</option>
+                <option value="female">Kadın</option>
+            </select>
+
+            <p>Hangi etkinliklere katılmak istersiniz?</p>
+            <label><input type="checkbox" value="yoga"> Yoga</label>
+            <label><input type="checkbox" value="coding"> Kodlama</label>
+            <label><input type="checkbox" value="painting"> Resim</label>
+
+            <p>Eğitim Seviyeniz:</p>
+            <label><input type="radio" name="education" value="highschool"> Lise</label>
+            <label><input type="radio" name="education" value="bachelor"> Lisans</label>
+            <label><input type="radio" name="education" value="master"> Yüksek Lisans</label>
+
+            <label for="comments">Ek Yorumlar:</label>
+            <textarea id="comments" rows="4" placeholder="Eklemek istediğiniz bir şey var mı?"></textarea>
+
+            <button id="submit" type="submit">Gönder</button>
+        </form>
+    </main>
+</body>
+</html>
