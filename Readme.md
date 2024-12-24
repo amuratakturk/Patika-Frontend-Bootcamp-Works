@@ -30,6 +30,8 @@ Bu proje, Patika+ Frontend Bootcamp sürecindeki haftaları ve her hafta içeris
 ### Hafta 5
 - [Ödev 1](/week5/Ödev-1-Javascript-Saat-Ve-Karşılama/index.html)
 - [Ödev 2](/week5/Ödev-2-Javascript-Drum-Kit/index.html)
+- [ÖDEV 2 Canlı site url :](https://amuratakturk.github.io/Patika-Frontend-Bootcamp-Works/)
+  
 
 
 
