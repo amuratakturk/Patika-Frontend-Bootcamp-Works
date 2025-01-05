@@ -1,7 +1,7 @@
  
  ## LİVE PROJECT 
 
-  **[Netlify Linki](https://storied-youtiao-b73c49.netlify.app/)** 
+  **[Netlify Link](https://storied-youtiao-b73c49.netlify.app/)** 
 
 
  
