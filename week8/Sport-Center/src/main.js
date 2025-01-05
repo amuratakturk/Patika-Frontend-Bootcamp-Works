@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   //  Navbar Scroll
   const navbar = document.querySelector('.nav-scroll');
-  window.addEventListener('scroll', function() {
+  window.addEventListener('scroll', function () {
     if (window.scrollY > 0) {
       navbar.classList.remove('transparent'); // Scroll
     } else {
