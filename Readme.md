@@ -58,11 +58,13 @@ Bu proje, Patika+ Frontend Bootcamp sürecindeki haftaları ve her hafta içeris
 
 ### Hafta 13
 
-Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok. Sadece izlememiz gereken ders videoları vardı.
+Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok. Sadece izlememiz gereken ders videoları vardı. 
+- [Readme](/week13/readme.md)
 
 ### Hafta 14
 
-Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok. Sadece izlememiz gereken ders videoları vardı.
+Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok. Sadece izlememiz gereken ders videoları vardı. 
+- [Readme](/week14/readme.md)
 
 ### Hafta 15
 
@@ -71,6 +73,7 @@ Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok.
 ### Hafta 16
 
 Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok. Sadece izlememiz gereken ders videoları ve yapmamız gereken mülakat simülasyonları vardı.
+- [Readme](/week16/readme.md)
 
 
 
