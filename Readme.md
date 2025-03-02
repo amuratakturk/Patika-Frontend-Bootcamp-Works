@@ -33,8 +33,8 @@ Bu proje, Patika+ Frontend Bootcamp sürecindeki haftaları ve her hafta içeris
 - [ÖDEV 2 Canlı site URL ](https://amuratakturk.github.io/Patika-Frontend-Bootcamp-Works/)
   
 ### Hafta 6
--[Ödev 1](/week6/Ödev-1-JS-ile-to-do-list/index.html)
--[Ödev 2](/week6/Ödev-2-Asian-Kitchens-Menu/index.html)
+- [Ödev 1](/week6/Ödev-1-JS-ile-to-do-list/index.html)
+- [Ödev 2](/week6/Ödev-2-Asian-Kitchens-Menu/index.html)
 
 
 ### Hafta 7
