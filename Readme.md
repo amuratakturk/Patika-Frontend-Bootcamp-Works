@@ -70,7 +70,7 @@ Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok.
 
 ### Hafta 16
 
-Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok. Sadece izlememiz gereken ders videolar ve yapmamız gereken mülakat simülasyonları vardı.
+Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok. Sadece izlememiz gereken ders videoları ve yapmamız gereken mülakat simülasyonları vardı.
 
 
 
