@@ -33,15 +33,48 @@ Bu proje, Patika+ Frontend Bootcamp sürecindeki haftaları ve her hafta içeris
 - [ÖDEV 2 Canlı site URL ](https://amuratakturk.github.io/Patika-Frontend-Bootcamp-Works/)
   
 ### Hafta 6
--
--
--
+-[Ödev 1](/week6/Ödev-1-JS-ile-to-do-list/index.html)
+-[Ödev 2](/week6/Ödev-2-Asian-Kitchens-Menu/index.html)
+
 
 ### Hafta 7
 - [Alıştırma](/week7/Responsive-Web-Projesi/index.html)
 
 ### Hafta 8
 - [Readme](/week8/Readme.md)
+  
+### Hafta 9
+
+
+### Hafta 10
+
+### Hafta 11
+
+- [Alıştırma](/week11/Örnek-Proje-Adam-Asmaca/adam-asmaca/index.html)
+- [Proje Ödevi](/week11/Question-App/Readme.md)
+
+### Hafta 12
+
+
+### Hafta 13
+
+Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok. Sadece izlememiz gereken ders videoları vardı.
+
+### Hafta 14
+
+Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok. Sadece izlememiz gereken ders videoları vardı.
+
+### Hafta 15
+
+- [Proje Ödevi](/week15/LibraryApp/Readme.md)
+
+### Hafta 16
+
+Bu hafta yaptığımız gereken zorunlu her hangi bir alıştırma ve proje yok. Sadece izlememiz gereken ders videolar ve yapmamız gereken mülakat simülasyonları vardı.
+
+
+
+
 
 
 

@@ -1,0 +1,1 @@
+Bitirme Projemizi Private Repo olarak paylaşmamız gerektiği için başka bir repoda bu projeyi paylaştım.
