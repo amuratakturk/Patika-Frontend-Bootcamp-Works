@@ -4,11 +4,11 @@ Bu proje, Patika+ Frontend Bootcamp sürecindeki haftaları ve her hafta içeris
 ## Haftalar Ve Ödevler
 
 ### Hafta 0
-- [Ödev 1](/Week0/index.html)
+- [Ödev 1](/week0/index.html)
 
 ### Hafta 1
 
-- [Ödev 1](/Week1/Ödev%201%20-%20Ilk%20Web%20Sayfamızı%20Olusturmak/Ödev%201%20-%20Ilk%20Web%20Sayfamızı%20Olusturmak.html)
+- [Ödev 1](/week1/Ödev%201%20-%20Ilk%20Web%20Sayfamızı%20Olusturmak/Ödev%201%20-%20Ilk%20Web%20Sayfamızı%20Olusturmak.html)
 - [Ödev 2](/week1/Pratik-2-Form%20Elemanlari%20Kullanimi/Form%20Elemanlari%20Kullanimi(input,select,textarea%20vb.).html)
 - [Ödev 3](/week1/Ödev%203%20-%20Rehber%20Web%20Sitesi%20Olusturma/1-Ana-sayfa-index.html)
 - [Pratik](/week1/Pratik-1-Tablolarla%20Calismak/sinif_tablosu.html)
